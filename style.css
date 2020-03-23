@@ -1,0 +1,174 @@
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+#features { 
+    padding: 7% 15% 7% 15%;
+    position: relative;
+    z-index: 1;
+ }
+
+ #deeperinfo {
+    background-color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifx;
+    align-items: center;
+    padding: 7% 15%; 
+}
+
+#testimonials {
+    font-family: 'Rubik Mono One', sans-serif;
+    align-items: center;
+    text-align: center;
+    padding: 7% 15%; 
+}
+
+#pricing {
+    background-color: aliceblue;
+    font-family: 'Rubik Mono One', sans-serif;
+    align-items: center;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+h1, h2, h4, h5, h6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: bolder;
+}
+
+
+p {
+    color: grey;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+.navbar-brand {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 2rem;
+}
+
+.navbar {
+    padding: 0 0 4rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-weight: bold;
+    font-size: 1.2;
+}
+
+.download-button {
+    margin: 0 3% 5% 0;
+}
+
+.AMBD { 
+    padding: 20px;
+    border-radius: 50px;
+    position: center;
+}
+
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.lab {
+    border-radius: 100%;
+    width: 80%;
+    padding-top: 1rem;
+
+}
+
+.alsation {
+    border-radius: 100%;
+    width: 80%;
+    padding-top: 1rem;
+
+}
+
+.pups {
+    border-radius: 100%;
+    width: 50%;
+    padding: 2rem;
+
+}
+
+.corousel-item {
+    padding: 7% 15%; 
+}
+
+.last {
+    background-color: #ff4c68;
+    text-align: center;
+    color: white;
+    padding: 7% 15%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.end-button {
+  position: relative; 
+  padding: 20px 10px;
+  
+}
+
+.conatct {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.vet {
+    border-radius: 100%;
+}
+
+.cta {
+    margin-top: 2rem;
+}
+
+.FE {
+    padding: 20px;
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 1028px) { 
+
+    #title {
+        text-align: center; 
+}
+}
+
+#features :hover {
+    color:  #ff4c68;
+}
+
+.BC-APP {
+    font-weight: bolder;
+    font-size: 2rem;
+    text-align: center;
+    color: indianred;
+}
+
+.woof {
+    font-size: 2.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifx;
+
+}
